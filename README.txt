@@ -32,7 +32,7 @@ Yes, this plugin will remain free forever. No money will ever be charged for thi
 This code was released under the GPLv2 license. You can change the code as much as you want.
 
 = Something's not working as it should, where can I file a bugreport? =
-You can file bugreports at GitHub: https://github.com/Jorijn/wp-simple-youtube/issues
+You can file bugreports at GitHub: https://github.com/Jorijn/rather-simple-youtube/issues
 
 == Screenshots ==
 
